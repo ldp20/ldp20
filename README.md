@@ -2,7 +2,7 @@
 
 ### Welcome to my Github profile. I'm Fullstack Developer Web, Freelancer, from Asunción, Paraguay <img src = 'https://www.flaticon.es/svg/vstatic/svg/197/197376.svg?token=exp=1619381237~hmac=54d3e4d88c0900b13d31ddbdbfbf17a1' width="13" />
 
-:computer: Languages and Frameworks
+## :computer: Languages and Frameworks
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="assets/icons/html.svg" alt="html" style="vertical-align:top; margin:4px">
@@ -16,7 +16,7 @@
   <img src="assets/icons/wordpress.svg" alt="wordpress" style="vertical-align:top; margin:4px"> 
 </p>
 
-:hammer: Tools
+## :hammer: Tools
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="assets/icons/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
