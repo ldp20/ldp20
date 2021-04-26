@@ -30,7 +30,7 @@
 ## <img src="https://cdn.icon-icons.com/icons2/1502/PNG/512/officedatabase_103574.png" width = "32"> Databases
 
 <p>
-  <img src="https://img.shields.io/badge/sqlite-003B57?&style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" title="SQLite" height="25" />
+  <img src="https://img.shields.io/badge/sqlite-282C34?&style=for-the-badge&logo=sqlite&logoColor=003B57" alt="SQLite" title="SQLite" height="25" />
   <img src="https://img.shields.io/badge/mysql-282C34?&style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" title="MySQL" height="25" />
   <img src ="https://img.shields.io/badge/postgres-282C34?&style=for-the-badge&logo=postgresql&logoColor=336791" alt="Postgres" title="Postgres" height="25" />
     
