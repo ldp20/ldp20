@@ -1,6 +1,6 @@
 # Hi!👋 I'm Luis! :man_technologist: 
 
-### Welcome to my Github profile. I'm Fullstack Developer Web, Freelancer, from Asunción, Paraguay <img src = 'https://image.flaticon.com/icons/png/512/197/197376.png' width="13" />
+### Welcome to my Github profile. I'm Fullstack Developer Web, Freelancer, from Asunción, Paraguay <img src = 'https://image.flaticon.com/icons/png/512/197/197376.png' width="20" />
 
 ## :computer: Languages and Frameworks
 <p>
